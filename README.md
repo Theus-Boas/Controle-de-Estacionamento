@@ -3,7 +3,7 @@ Esse sistema foi desenvolvido puramente em linguagem c#, sem utilizar nenhuma in
 uma vez que esse sistema porta de funcionalidades para o gerenciamento de um determinado estacionamento, onde é possível realizar as seguintes alterações dentro desse ambiente:
 - Adicionar um novo veículo
 - Retirar um veículo
-- Visualizar todo o estaacionamento
+- Visualizar todo o estacionamento
 
 Além de quem o estacionamento por nessa versão do sistema estar programado para suportar 20 veículos, é possível ter uma segunda aba para quando todas as vagas forem preenchidas, onde é possível
 realizar a retirada dos veículos ou visualizar a lista geral do estacionamento.
