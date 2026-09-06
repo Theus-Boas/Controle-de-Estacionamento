@@ -4,5 +4,6 @@ uma vez que esse sistema porta de funcionalidades para o gerenciamento de um det
 - Adicionar um novo veículo
 - Retirar um veículo
 - Visualizar todo o estaacionamento
+
 Além de quem o estacionamento por nessa versão do sistema estar programado para suportar 20 veículos, é possível ter uma segunda aba para quando todas as vagas forem preenchidas, onde é possível
 realizar a retirada dos veículos ou visualizar a lista geral do estacionamento.
